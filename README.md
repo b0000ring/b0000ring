@@ -1,4 +1,4 @@
-# Hi, I'm Alex
+# Hello
 
 Check out my blog about data visualization - [https://chartexample.com](https://chartexample.com)
 

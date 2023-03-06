@@ -1,6 +1,8 @@
-# Hello
+# Hello, Im Alex
 
-Check out my blog about data visualization - [https://chartexample.com](https://chartexample.com)
+Im very passionate about front-end and interactive data visualizations
+
+Check out my blog - [https://chartexample.com](https://chartexample.com)
 
 ## Useful repos
 

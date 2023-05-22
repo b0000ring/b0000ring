@@ -8,7 +8,7 @@ Check out my blog - [https://chartexample.com](https://chartexample.com)
 
 - [npm-cockpit](https://github.com/b0000ring/npm-cockpit) - Installable command-line tool which helps to track nodejs project dependencies state
 
-- [url-query-manager](https://github.com/b0000ring/url-query-manager) - An npm package that provides a safe and efficient solution for manipulating URL query parameters from different app modules separately 
+- [url-query-manager](https://github.com/b0000ring/url-query-manager) - NPM package that provides a safe and efficient solution for manipulating URL query parameters from different app modules separately 
 
 ## Links
 
